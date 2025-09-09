@@ -33,3 +33,12 @@ The project includes test cases for the following actions:
 
 ---
 
+## Sample Test Run Output
+
+<img width="1248" height="656" alt="image" src="https://github.com/user-attachments/assets/be36d438-ebba-4725-aee6-cb233339b72d" />
+<img width="1114" height="618" alt="image" src="https://github.com/user-attachments/assets/797c66a9-370e-4bbf-b374-8ec703d2ba4d" />
+<img width="1142" height="538" alt="image" src="https://github.com/user-attachments/assets/9a1a6b36-78f7-4fb1-982e-29d84ec09165" />
+<img width="1130" height="610" alt="image" src="https://github.com/user-attachments/assets/f06655aa-b032-4cb6-b61b-56cc19796cdb" />
+
+
+
