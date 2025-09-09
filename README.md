@@ -1,7 +1,7 @@
 # DemoQA Automation Project (JUnit + Selenium)
 ## Project Summary
 
-This project is a **hands-on automation framework** built with **Java, Selenium, and JUnit**.  
+This project is a **hands-on practice on automation framework** built with **Java, Selenium, and JUnit**.  
 It automates various features of the [DemoQA](https://demoqa.com/) practice website, covering real-world web testing scenarios.  
 
 ---
